@@ -21,7 +21,7 @@
 
 #### 2.2 [Explicación del código implementado]
 
-#### 2.3 [Análisis y comparación]
+#### 2.3 [Análisis]
 
 #### 3. [Evidencias de implementación]
 
@@ -39,6 +39,10 @@ En esta práctica hemos realizado el analisis, modelación, relacionamiento y mo
 
 **MPLAB X IDE:** Funciona como una interfaz unificada para herramientas de desarrollo de software y hardware adicionales de ```Microchip``` y de terceros. Es un  entorno de desarrollo integrado (IDE) gratuito y multiplataforma de Microchip para programar microcontroladores PIC® y AVR®, basado en NetBeans.
 
+**PuTTY:** Es un cliente ```SSH```y Telnet gratuito y de código abierto para Windows y sistemas Unix, utilizado principalmente para gestionar servidores remotos y ```dispositivos de red``` de forma segura. Permite conexiones cifradas, emulación de terminal xterm y se destaca por ser ligero, portátil y fácil de configurar para administración de sistemas.
+
+**UART:** (```Universal Asynchronous Receiver-Transmitter```) es un protocolo de comunicación serial asíncrono, ampliamente utilizado en electrónica para intercambiar datos entre microcontroladores, sensores y PC. Utiliza solo dos cables (```TX y RX```) y no requiere señal de reloj, basándose en la misma tasa de baudios (velocidad) para funcionar
+
 ## 1.2 Herramientas y materiales
 
 * Microcontrolador ```PIC18F45K22``` 
@@ -55,9 +59,9 @@ En esta práctica hemos realizado el analisis, modelación, relacionamiento y mo
 
 * Condensadores electrolíticos de 21pF y 15pF.
   
-* Oscilador de Cuarzo de 16 MHz
+* Programador, terminal PuTTY
   
-* Osciloscopio
+* UART
   
 * Computador con un SO relacionable
 
@@ -71,7 +75,7 @@ En esta práctica hemos realizado el analisis, modelación, relacionamiento y mo
 
 
 
-### 2.3 Análisis y comparación
+### 2.3 Análisis.
 
 
 
