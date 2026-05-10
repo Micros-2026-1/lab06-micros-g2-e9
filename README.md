@@ -13,15 +13,15 @@
 # Laboratorio 2 - Microprocesadores / Caracterización de osciladores con microcontrolador PIC 
 
 ## Indice
-#### 1.1 [Resumen y Marco Teorico]
+#### 1. [Resumen y Marco Teorico]
 
-#### 1.2 [Herramientas y materiales usados]
+#### 1.1 [Herramientas y materiales usados]
 
-#### 2.1 [Descripción del laboratorio]
+#### 2. [Descripción del laboratorio]
 
-#### 2.2 [Explicación del código implementado]
+#### 2.1 [Explicación del código implementado]
 
-#### 2.3 [Análisis]
+#### 2.2 [Análisis]
 
 #### 3. [Evidencias de implementación]
 
