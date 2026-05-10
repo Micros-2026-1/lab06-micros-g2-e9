@@ -10,7 +10,7 @@
 
 ## 2. Documentación
 
-# Laboratorio 2 - Microprocesadores / Caracterización de osciladores con microcontrolador PIC 
+# Laboratorio 6 - Comunicación UART con PIC18F45K22
 
 ## Indice
 #### 1. [Resumen y Marco Teorico]
