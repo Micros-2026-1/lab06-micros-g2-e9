@@ -29,7 +29,7 @@
 
 ## 1.1 Resumen
 
-En esta práctica hemos realizado el analisis, modelación, relacionamiento y montaje de  dos circuitos operados por un **PIC18F45K22**  que les brindará una salida digital mediante un código de programación hecho en lenguaje **C** por medio de un compilador llamado **MPLAB X IDE**.  Así, con esto, empezar a comprender un poco más el funcionamiento de los microprocesadores en un entorno relacionado a osciladores, condensadores y medidas de señales.
+En esta práctica hemos realizado el analisis, modelación, relacionamiento y montaje de  dos circuitos operados por un **PIC18F45K22**  que les brindará una salida digital mediante un código de programación hecho en lenguaje **C** por medio de un compilador llamado **MPLAB X IDE**.  Así, con esto, comprender un poco más el funcionamiento de los microprocesadores en un entorno relacionado a equipos UART, terminales PuTTY y medidas de señales por medio de un código y gr+áficas de Python.
 
 ## * Marco Teorico
 
@@ -183,5 +183,3 @@ void main(void) {
     
 ## Montaje de salida en la terminal Putty
 
-
-## 4. [Preguntas]
