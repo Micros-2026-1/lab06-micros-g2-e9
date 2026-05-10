@@ -20,11 +20,7 @@
 
 #### 2.1 [Explicación del código implementado]
 
-#### 2.2 [Análisis]
-
 #### 3. [Evidencias de implementación]
-
-#### 4. [Preguntas]
 
 ## 1.1 Resumen
 
@@ -151,10 +147,6 @@ void main(void) {
     }
 }
 ```
-
-### 2.3 Análisis.
-
-
 
 ## 3. Evidencias
 
