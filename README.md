@@ -165,7 +165,7 @@ void main(void) {
 ![pic](/graficapy.jpg)
 ### Demostración de gráfica en Python
 
-![pic](/montajeuart.png)
+![pic](/montajeuart.jpg)
 ## Montaje físico UART y PICkit 
 
 ![pic](/puttyde.jpg)
