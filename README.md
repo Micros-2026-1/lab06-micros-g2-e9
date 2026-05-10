@@ -159,17 +159,29 @@ void main(void) {
 
 ## 3. Evidencias
 
-![pic](/codec.jpg)
+   <div align="center">
+    <img src="/codec.jpg" alt="Referencia 1" width="850" />
+    </div>
+    
 ### Implementacion de código en MPLAB (interno)
 
-![pic](/graficapy.jpg)
+   <div align="center">
+    <img src="/graficapy.jpg" alt="Referencia 1" width="850" />
+    </div>
+    
 ### Demostración de gráfica en Python
 
-![pic](/montajeuart.jpg)
+   <div align="center">
+    <img src="/montajeuart.jpg" alt="Referencia 1" width="850" />
+    </div>
+
 ## Montaje físico UART y PICkit 
 
-![pic](/puttyde.jpg)
-## Mendaje de salida en la terminal Putty
+   <div align="center">
+    <img src="/puttyde.jpg" alt="Referencia 1" width="850" />
+    </div>
+    
+## Montaje de salida en la terminal Putty
 
 
 ## 4. [Preguntas]
